@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm MinSuk OH</h1>
-<h3 align="left">A Junior DBA from Korea</h3>
+
 
 - 🌱 MBTI **ISFJ**
 
