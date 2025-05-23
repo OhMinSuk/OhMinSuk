@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋&ensp;SELECT * FROM me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <pre></li>SELECT<br></li>    'Minsuk OH' AS name,<br> </li>   'DB Engineer & DBA' AS goal,<br></li>    'SQL, Schema Design, Query Optimization' AS skills,
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <pre></li>SELECT<br></li>    'Minsuk OH' AS name,<br> </li>   'DB Engineer & DBA' AS goal,<br></li>    'SQL, Schema Design, Data Analysis & ML' AS skills,
         <br></li>WHERE<br></li>    passion = 'Database'<br></li>    AND proficiency IN ('SQL', 'RDBMS');</li></pre></li> </div> 
     </div>
     <div style="text-align: left;">
@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   </div>
 </div>
 
